@@ -1,1 +1,1 @@
-# QML-Project-QCNN
+# QML-Project-QNN
